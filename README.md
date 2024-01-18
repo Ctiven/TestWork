@@ -13,4 +13,4 @@
 
 5. Использовать контроль версий в работе над этим небольшим проектом.
 
-![]https://github.com/Ctiven/TestWork/blob/main/TaskWork.jpg
+![](https://github.com/Ctiven/TestWork/blob/main/TaskWork.jpg)
